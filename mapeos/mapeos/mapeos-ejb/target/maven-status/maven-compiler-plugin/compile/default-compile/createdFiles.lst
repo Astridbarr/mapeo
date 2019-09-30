@@ -1,0 +1,10 @@
+entity\Inversor_.class
+fade\CuentaFacade.class
+interfaces\InversorFacadeLocal.class
+entity\Cuenta.class
+entity\Inversor.class
+interfaces\CuentaFacadeLocal.class
+com\mycompany\NewSessionBean.class
+fade\AbstractFacade.class
+fade\InversorFacade.class
+entity\Cuenta_.class
